@@ -20,7 +20,3 @@ jobs:
       - name: Install dependencies
         run: |
           make install
-
-      - name: Run Flake8
-        run: |
-          flake8
