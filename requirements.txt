@@ -1,0 +1,9 @@
+flake8
+flask
+pandas
+pytest
+scikit-learn
+seaborn
+matplotlib
+xgboost
+scipy
